@@ -1,0 +1,26 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^2.0.1",
+    "discord.js": "^11.4.2",
+    "server": "^1.0.18",
+    "toml": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDaedalusCrew/DiscordBot.git"
+  },
+  "author": "HiddenKn",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/TheDaedalusCrew/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/TheDaedalusCrew/DiscordBot#readme"
+}
